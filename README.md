@@ -17,7 +17,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <a href="https://github.com/Ajal-P">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajal-P&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
+# <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajal-P&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Ajal-P">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajal-P&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
